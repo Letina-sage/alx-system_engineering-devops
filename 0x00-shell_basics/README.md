@@ -1,1 +1,1 @@
-displaying hidden file in long format
+long format with user id displayed numerically,and hidden file
