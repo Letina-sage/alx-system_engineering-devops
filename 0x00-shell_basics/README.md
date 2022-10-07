@@ -1,1 +1,1 @@
-Changing directory to user home directory
+long format of current directory
